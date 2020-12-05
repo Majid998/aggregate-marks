@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1607095708 source:c:\users\mac\documents\programs\c programs\aggregate marks\main.c
+	<stdio.h>
+	<stdlib.h>
+
